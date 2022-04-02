@@ -79948,7 +79948,7 @@ s=A.b([A.nY(new A.asp(),t.c),A.nY(new A.asq(),t.B),A.nY(new A.asr(),t.q7),A.nY(n
 r=new A.a2C().mu()
 q=new A.bR(p,t.b7)
 r=o.f.Y6("Root",r,p,p,p)
-o=new A.Ek(q,r,!1,"/home",A.D(0,p,!1,t.Z))
+o=new A.Ek(q,r,!1,"/",A.D(0,p,!1,t.Z))
 r.aj(0,o.gdX())
 r.z=q
 return A.aUf(new A.CM(p,p,p,B.Cc,o,p,!1,p),s)}}
@@ -79984,7 +79984,7 @@ $1(a){return $.cJ().$1$0(t.ct)},
 $S:500}
 A.a2C.prototype={
 mu(){var s=t.cr
-return A.b([new A.l7("/home","App",null,new A.a2D(),null,A.b([new A.L1(),new A.MG()],t.hv),null,A.b([new A.a51().mu(),new A.af5().mu(),new A.agG().mu(),new A.ajK().mu()],s))],s)}}
+return A.b([new A.l7("/","App",null,new A.a2D(),null,A.b([new A.L1(),new A.MG()],t.hv),null,A.b([new A.a51().mu(),new A.af5().mu(),new A.agG().mu(),new A.ajK().mu()],s))],s)}}
 A.a2D.prototype={
 $1(a){return B.fA},
 $S:77}
